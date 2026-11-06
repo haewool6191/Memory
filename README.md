@@ -29,3 +29,4 @@ $R = w_1(\text{Categorization Accuracy}) + w_2(\text{Graph Connectivity}) + w_3(
 2.  **에이전트 작동**: P-Reinforce가 자동으로 데이터를 분석하고, 최적의 폴더에 배치하며, 관련 지식과 링크를 생성합니다.
 3.  **피드백**: 에이전트의 분류 결과에 대해 "이건 코딩이 아니라 비즈니스야"와 같이 피드백을 주시면, 정책(Policy.md)이 업데이트되어 다음 분류 정확도가 향상됩니다.
 " 
+"# Memory" 
